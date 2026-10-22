@@ -1,0 +1,10 @@
+{
+  "description": "Create and organize interactive prototypes by adding screens to visualize app functionality and user flow for design and testing purposes.",
+  "robots": {
+    "index": false
+  },
+  "accessibility": {
+    "addBypassLinks": false,
+    "ignoreReducedMotion": false
+  }
+}
